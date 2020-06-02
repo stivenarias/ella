@@ -98,6 +98,10 @@ section img {
     font-family: 'Caveat', cursive;
 }
 
+.mileidy:hover {
+    cursor: default;
+}
+
 @media (max-width: 1200px) {
     .text, .firma, .mileidy {
         width: 75%;
